@@ -1,0 +1,13 @@
+server:
+  port: 8091
+
+spring:
+  mail:
+    #邮箱服务器地址，需要使用发送者的邮箱的服务器地址
+    host: smtp.qq.com
+    #发送者的邮件的用户名
+    username: 415836669@qq.com
+    #使用的编码
+    default-encoding: utf-8
+    #移动端客户授权码(在邮箱中设置)
+    password: medpgfkznmylcbcg
